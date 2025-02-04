@@ -1,0 +1,51 @@
+{
+  "templates": {
+    "b47d95b2681aacd2a340c9408b09931e": {
+      "name": "喵ollama",
+      "category": "猫",
+      "tags": [
+        "猫",
+        "性爱"
+      ],
+      "version": "1.0",
+      "path": "prompts\\b47d95b2681aacd2a340c9408b09931e.yml"
+    },
+    "default_chat": {
+      "name": "默认聊天",
+      "category": "基础",
+      "tags": [
+        "聊天",
+        "基础对话"
+      ],
+      "version": "1.0",
+      "path": "prompts\\default_chat.yml"
+    },
+    "4feb65f48a534240c91a8b3cc92daff1": {
+      "name": "猫娘",
+      "category": "猫猫",
+      "tags": [
+        "猫猫"
+      ],
+      "version": "1.0",
+      "path": "prompts\\4feb65f48a534240c91a8b3cc92daff1.yml"
+    }
+  },
+  "categories": {
+    "猫": [
+      "b47d95b2681aacd2a340c9408b09931e"
+    ],
+    "基础": [
+      "default_chat"
+    ],
+    "猫猫": [
+      "4feb65f48a534240c91a8b3cc92daff1"
+    ]
+  },
+  "tags": [
+    "猫",
+    "性爱",
+    "聊天",
+    "基础对话",
+    "猫猫"
+  ]
+}

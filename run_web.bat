@@ -1,0 +1,3 @@
+@echo off
+echo 启动MiaOllama Web界面...
+streamlit run src/web/app.py
